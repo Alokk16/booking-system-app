@@ -1,0 +1,43 @@
+{
+  "hash": "6fdfb631",
+  "configHash": "5c4fc7ac",
+  "lockfileHash": "23220064",
+  "browserHash": "10194606",
+  "optimized": {
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/esm/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "79c428b7",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/esm/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "28804fef",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "0e26aae1",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "299493e3",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-VQS3QGIY": {
+      "file": "chunk-VQS3QGIY.js"
+    },
+    "chunk-WEJJOBXA": {
+      "file": "chunk-WEJJOBXA.js"
+    },
+    "chunk-VCDLJVZS": {
+      "file": "chunk-VCDLJVZS.js"
+    }
+  }
+}
